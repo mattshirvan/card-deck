@@ -1,10 +1,10 @@
-#Card Deck Classes
+# Card Deck Classes
 These are the classes for any card game in C#.
 
-##Prerequisites
+## Prerequisites
 C#/.net
 
-###Usage
+### Usage
 Implement a main program of any card game of your choosing.
 
 
